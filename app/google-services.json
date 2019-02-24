@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291674860111",
+    "firebase_url": "https://tamato-1293d.firebaseio.com",
+    "project_id": "tamato-1293d",
+    "storage_bucket": "tamato-1293d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291674860111:android:ae622880cbee79be",
+        "android_client_info": {
+          "package_name": "com.collegeutilapp.junaid.tomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291674860111-uj59l88ee9bsictlqjttc8cf91006hrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collegeutilapp.junaid.tomato",
+            "certificate_hash": "2f9519d2a5ac7e3fe792c344a9c5499d5233a6b8"
+          }
+        },
+        {
+          "client_id": "291674860111-075uv963bri0qduq9gcpmipmm3mmd4a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGeM1OpChtrZWQQ9cVI1A8fmnzKmbJ5pQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291674860111-075uv963bri0qduq9gcpmipmm3mmd4a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
